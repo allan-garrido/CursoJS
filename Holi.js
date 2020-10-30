@@ -1,1 +1,1 @@
-console.write("Holi");
+console.writeln("Holi");
